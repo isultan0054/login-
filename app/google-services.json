@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53608140296",
+    "project_id": "sultan-d2a64",
+    "storage_bucket": "sultan-d2a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53608140296:android:0518edfc346d17215bcbbd",
+        "android_client_info": {
+          "package_name": "com.example.sultanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53608140296-duvoa0ippp9b8nl00jm9ffo5u0mt535v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3h6S2Vw7mdFA4IVoFeSI9NRNrJqWQ9Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53608140296-duvoa0ippp9b8nl00jm9ffo5u0mt535v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
